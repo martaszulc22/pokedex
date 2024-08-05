@@ -1,4 +1,4 @@
-let startIndex = 1;
+let startIndex = 2;
 let pokemonNumber = 15;
 
 function createPokemonCard(pokemon) {
